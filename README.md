@@ -43,7 +43,8 @@ This repository contains the solutions to the Week 5 assignment, which covers Ra
 1. **Clone the Repository:**
    - Use the following command to clone the repository to your local machine:
      ```bash
-     git clone <repository-url>
+     git clone -b week_5_solution https://github.com/huelight/danubreed.git
+
      ```
    - Navigate to the folder containing the solution files using the terminal or file explorer.
 
